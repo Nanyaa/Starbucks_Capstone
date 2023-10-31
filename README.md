@@ -3,6 +3,26 @@
 ## Introduction
 The Starbucks Capstone Challenge involves analyzing simulated data mimicking customer behavior on the Starbucks rewards mobile app. The goal is to determine which demographic groups respond best to which types of offers.
 
+## Technical Information
+Libraries used:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- json
+- math
+- Sklearn
+    - AdaBoost Classifier
+    - train_test_split
+    - DecisionTreeClassifier
+    - Gaussian NB
+    - RandomForestClassifier
+    - accuracy_score
+    - GridSearchCV
+
+## Installation 
+Libraries were previously installed. An update had to be made to the Seaborn library using: pip install seaborn --upgrade
+
 ## Data Exploration and Analysis
 ### Portfolio Dataset:
 - Reviewed the structure and data types of the dataset.
@@ -44,5 +64,14 @@ Creating predictive models:
 - Creation of models using algorithms like AdaBoost.
 - Hyperparameter tuning using GridSearchCV.
 - Evaluation of model performance.
+
+## Reference and Acknowledgements
+The datasets used in this project were provided by Udacity.
+
+### Other References
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
+https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.merge.html
+https://stackoverflow.com/questions/37600711/pandas-split-column-into-multiple-columns-by-comma
+https://stackoverflow.com/questions/64815227/attributeerror-module-seaborn-has-no-attribute-histplot
 
 Read blogpost [here](https://medium.com/@ifyobi21/an-analysis-of-the-starbucks-mobile-app-rewards-f36f95b0707e)
