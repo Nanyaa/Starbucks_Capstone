@@ -69,9 +69,9 @@ Creating predictive models:
 The datasets used in this project were provided by Udacity.
 
 ### Other References
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
-https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.merge.html
-https://stackoverflow.com/questions/37600711/pandas-split-column-into-multiple-columns-by-comma
-https://stackoverflow.com/questions/64815227/attributeerror-module-seaborn-has-no-attribute-histplot
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
+- https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.merge.html
+- https://stackoverflow.com/questions/37600711/pandas-split-column-into-multiple-columns-by-comma
+- https://stackoverflow.com/questions/64815227/attributeerror-module-seaborn-has-no-attribute-histplot
 
 Read blogpost [here](https://medium.com/@ifyobi21/an-analysis-of-the-starbucks-mobile-app-rewards-f36f95b0707e)
