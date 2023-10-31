@@ -44,3 +44,5 @@ Creating predictive models:
 - Creation of models using algorithms like AdaBoost.
 - Hyperparameter tuning using GridSearchCV.
 - Evaluation of model performance.
+
+Read blogpost [here](https://medium.com/@ifyobi21/an-analysis-of-the-starbucks-mobile-app-rewards-f36f95b0707e)
