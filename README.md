@@ -1,7 +1,7 @@
 # Starbucks Rewards Analysis
 
 ## Introduction
-The Starbucks Capstone Challenge involves analyzing simulated data mimicking customer behavior on the Starbucks rewards mobile app. The goal is to determine which demographic groups respond best to which types of offers.
+The Starbucks Rewards Analysis involves analyzing simulated data mimicking customer behavior on the Starbucks rewards mobile app. The goal is to determine which demographic groups respond best to which types of offers.
 
 ## Technical Information
 Libraries used:
